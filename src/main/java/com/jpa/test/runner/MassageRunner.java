@@ -9,6 +9,7 @@ public class MassageRunner implements CommandLineRunner {
 	public void run(String... args) throws Exception {
  
 		System.out.println("welcome to spring boot ");
+		
 	}
 
 }
